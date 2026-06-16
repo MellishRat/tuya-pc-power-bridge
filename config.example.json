@@ -1,0 +1,19 @@
+{
+  "app_secret": "CHANGE_THIS_TO_A_LONG_RANDOM_STRING",
+  "host": "127.0.0.1",
+  "port": 8787,
+  "tuya": {
+    "device_id": "YOUR_DEVICE_ID",
+    "device_ip": "192.168.0.110",
+    "local_key": "YOUR_LOCAL_KEY",
+    "version": 3.5
+  },
+  "users": {
+    "Mellish": {
+      "password_hash": "GENERATE_WITH_setup_users.py"
+    },
+    "Squishy": {
+      "password_hash": "GENERATE_WITH_setup_users.py"
+    }
+  }
+}
