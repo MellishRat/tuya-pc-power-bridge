@@ -160,4 +160,4 @@ Never commit:
 
 ## Licence
 
-MIT, or choose your preferred licence.
+MIT
